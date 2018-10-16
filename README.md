@@ -1,4 +1,3 @@
-# gaoming-copy
 
 > A Vue.js project
 
