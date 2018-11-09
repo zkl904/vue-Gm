@@ -2,7 +2,7 @@
 <div class="contain">
 	<div class="header flex flex-center items-center flex-col">
 		<div class="mb-30 fz-30">我是home页面</div>
-		<div class="router fc-third fz-20" @click="goLogin">点我去login页面</div>
+		<div class="router fc-third fz-20" @click="goLogin">点我去login页面11</div>
 	</div>
 </div>
 </template>
