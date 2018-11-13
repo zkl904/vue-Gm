@@ -40,7 +40,7 @@
   export default {
     data() {
       return {
-        mobileNo: '15757855240',
+        mobileNo: '157578552402',
         loginPwd: 'abc123',
 	      testName: '王小明2211feature/1.1',
 	      testMobiileNo: '15757855240',
